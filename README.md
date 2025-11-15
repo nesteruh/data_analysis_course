@@ -26,7 +26,7 @@ https://colab.research.google.com/github/nesteruh/data_analysis_course/blob/main
  - lessons
     **-** Материалы уроков (notebooks, презентации и т.п.)
 
-    
+
 Необходимые аккаунты
 
 Перед началом убедитесь, что у вас есть:
