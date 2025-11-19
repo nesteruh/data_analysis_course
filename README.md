@@ -16,6 +16,21 @@ https://colab.research.google.com/github/nesteruh/data_analysis_course/blob/main
 https://colab.research.google.com/github/nesteruh/data_analysis_course/blob/main/lessons/lesson_2.ipynb)
 
 > Нажмите на кнопку выше, чтобы открыть .ipynb файл прямо в Google Colab  
+
+
+
+##  Практическое занятие №3
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/nesteruh/data_analysis_course/blob/main/lessons/lesson_3.ipynb)
+
+
+
+##  Практическое занятие №4
+
+[![Open in Colab](https://colab.research.google.com/assets/colab-badge.svg)](
+https://colab.research.google.com/github/nesteruh/data_analysis_course/blob/main/lessons/lesson_4.ipynb)
+
 ---
 
 
