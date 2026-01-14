@@ -23,7 +23,7 @@
 | [Урок 14](lessons/lesson_14.ipynb) | Регрессия: полный практический цикл                        | https://drive.google.com/file/d/145OsTqz1kJ-aAMful9M3O1B6MjBhmT7K/view?usp=sharing |
 | [Урок 15](lessons/lesson_15.ipynb) | Логистическая регрессия: введение                          | https://drive.google.com/file/d/1rJAWjs6wI74OfF8BTo_KMCyGJeCRabCK/view?usp=sharing |
 | [Урок 16](lessons/lesson_16.ipynb) | Логистическая регрессия: реализация с нуля (Breast Cancer) | https://drive.google.com/file/d/1CMYPMz_dLYXLOGyf5HYK5fIo_U9zvhwc/view?usp=sharing |
-
+| [Урок 17](lessons/lesson_17.ipynb) | Дерево решений | https://drive.google.com/file/d/1BhnXVJlNC9oQtUwJ-TcbJQpZ6j0qXQ1S/view?usp=drive_link |
 
 ---
 
