@@ -24,6 +24,7 @@
 | [Урок 15](lessons/lesson_15.ipynb) | Логистическая регрессия: введение                          | https://drive.google.com/file/d/1rJAWjs6wI74OfF8BTo_KMCyGJeCRabCK/view?usp=sharing |
 | [Урок 16](lessons/lesson_16.ipynb) | Логистическая регрессия: реализация с нуля (Breast Cancer) | https://drive.google.com/file/d/1CMYPMz_dLYXLOGyf5HYK5fIo_U9zvhwc/view?usp=sharing |
 | [Урок 17](lessons/lesson_17.ipynb) | Дерево решений | https://drive.google.com/file/d/1BhnXVJlNC9oQtUwJ-TcbJQpZ6j0qXQ1S/view?usp=drive_link |
+| [Урок 18](lessons/lesson_18.ipynb) | Random Forest | https://drive.google.com/file/d/16h-47H7MsfBg4YbGZYde5xazn2QdbI3j/view?usp=sharing |
 
 ---
 
