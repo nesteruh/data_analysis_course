@@ -25,7 +25,9 @@
 | [Урок 16](lessons/lesson_16.ipynb) | Логистическая регрессия: реализация с нуля (Breast Cancer) | https://drive.google.com/file/d/1CMYPMz_dLYXLOGyf5HYK5fIo_U9zvhwc/view?usp=sharing |
 | [Урок 17](lessons/lesson_17.ipynb) | Дерево решений | https://drive.google.com/file/d/1BhnXVJlNC9oQtUwJ-TcbJQpZ6j0qXQ1S/view?usp=drive_link |
 | [Урок 18](lessons/lesson_18.ipynb) | Random Forest | https://drive.google.com/file/d/16h-47H7MsfBg4YbGZYde5xazn2QdbI3j/view?usp=sharing |
-
+| [Урок 19](lessons/lesson_19.ipynb) | K-means clustering | https://drive.google.com/file/d/1wUBWAxFFcMUYiBjfHmQuKGL3jIKx5tPV/view?usp=sharing |
+| [Урок 20](lessons/lesson_20.ipynb) | K-nearest neighbor | https://drive.google.com/file/d/13VqAIKGIWbiT89yzYEzoOFm9LrNzlEiB/view?usp=sharing |
+| [Урок 21](lessons/lesson_21.ipynb) | SVM classifier | https://drive.google.com/file/d/1LZHuBPsRv8RnAdzxizMouQT_XjLP3CR1/view?usp=sharing |
 ---
 
 ##  Полезные ссылки
@@ -35,3 +37,4 @@
 | [Kaggle](https://www.kaggle.com/) | основной источник наборов данных
 | [UC Irvine](https://archive.ics.uci.edu/) | дополнительный источник наборов данных
 | [Scikit datasets](https://scikit-learn.org/stable/api/sklearn.datasets.html) | встроенный источник набора данных
+| [StatQuest](https://www.youtube.com/c/joshstarmer) |  Очень полезный youtube канал для обучения
