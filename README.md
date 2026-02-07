@@ -28,6 +28,7 @@
 | [Урок 19](lessons/lesson_19.ipynb) | K-means clustering | https://drive.google.com/file/d/1wUBWAxFFcMUYiBjfHmQuKGL3jIKx5tPV/view?usp=sharing |
 | [Урок 20](lessons/lesson_20.ipynb) | K-nearest neighbor | https://drive.google.com/file/d/13VqAIKGIWbiT89yzYEzoOFm9LrNzlEiB/view?usp=sharing |
 | [Урок 21](lessons/lesson_21.ipynb) | SVM classifier | https://drive.google.com/file/d/1LZHuBPsRv8RnAdzxizMouQT_XjLP3CR1/view?usp=sharing |
+| [Урок 22](lessons/sql/lesson_22_presentation.md) | SQL: Основы SELECT, WHERE, ORDER BY |
 ---
 
 ##  Полезные ссылки
