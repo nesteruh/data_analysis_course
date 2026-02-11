@@ -28,8 +28,12 @@
 | [Урок 19](lessons/lesson_19.ipynb) | K-means clustering | https://drive.google.com/file/d/1wUBWAxFFcMUYiBjfHmQuKGL3jIKx5tPV/view?usp=sharing |
 | [Урок 20](lessons/lesson_20.ipynb) | K-nearest neighbor | https://drive.google.com/file/d/13VqAIKGIWbiT89yzYEzoOFm9LrNzlEiB/view?usp=sharing |
 | [Урок 21](lessons/lesson_21.ipynb) | SVM classifier | https://drive.google.com/file/d/1LZHuBPsRv8RnAdzxizMouQT_XjLP3CR1/view?usp=sharing |
-| [Урок 22](lessons/sql/lesson_22_presentation.md) | SQL: Основы SELECT, WHERE, ORDER BY |
+| [Урок 22](lessons/sql/lesson_22_presentation.md) | SQL: Основы SELECT, WHERE, ORDER BY | https://drive.google.com/file/d/1MLiYNa2Lvn1QsM7W7aKSYWzf4bDskXp3/view?usp=drive_link
+| [Урок 23](lessons/sql/lesson_23_presentation.md) | SQL: GROUP BY и агрегатные функции | https://drive.google.com/file/d/1VLKLvOhhMae6E299FdAs9NhYIeykQSC-/view?usp=sharing
+| [Урок 24](lessons/sql/lesson_24_presentation.md) | SQL: JOIN - объединение таблиц | https://drive.google.com/file/d/1v9Qg6ZUMpz55CQJxx1VOoHM1cDlNy-89/view?usp=drive_link
+| [Урок 25](lessons/sql/lesson_25_presentation.md) | SQL: Подзапросы и CASE WHEN | 
 ---
+
 
 ##  Полезные ссылки
 
