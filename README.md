@@ -32,6 +32,7 @@
 | [Урок 23](lessons/sql/lesson_23_presentation.md) | SQL: GROUP BY и агрегатные функции | https://drive.google.com/file/d/1VLKLvOhhMae6E299FdAs9NhYIeykQSC-/view?usp=sharing
 | [Урок 24](lessons/sql/lesson_24_presentation.md) | SQL: JOIN - объединение таблиц | https://drive.google.com/file/d/1v9Qg6ZUMpz55CQJxx1VOoHM1cDlNy-89/view?usp=drive_link
 | [Урок 25](lessons/sql/lesson_25_presentation.md) | SQL: Подзапросы и CASE WHEN | 
+| [Урок 26](lessons/sql/lesson_26_presentation.md) | SQL: Window Functions (оконные функции) |
 ---
 
 
