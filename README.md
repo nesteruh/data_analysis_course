@@ -31,8 +31,8 @@
 | [Урок 22](lessons/sql/lesson_22_presentation.md) | SQL: Основы SELECT, WHERE, ORDER BY | https://drive.google.com/file/d/1MLiYNa2Lvn1QsM7W7aKSYWzf4bDskXp3/view?usp=drive_link
 | [Урок 23](lessons/sql/lesson_23_presentation.md) | SQL: GROUP BY и агрегатные функции | https://drive.google.com/file/d/1VLKLvOhhMae6E299FdAs9NhYIeykQSC-/view?usp=sharing
 | [Урок 24](lessons/sql/lesson_24_presentation.md) | SQL: JOIN - объединение таблиц | https://drive.google.com/file/d/1v9Qg6ZUMpz55CQJxx1VOoHM1cDlNy-89/view?usp=drive_link
-| [Урок 25](lessons/sql/lesson_25_presentation.md) | SQL: Подзапросы и CASE WHEN | 
-| [Урок 26](lessons/sql/lesson_26_presentation.md) | SQL: Window Functions (оконные функции) |
+| [Урок 25](lessons/sql/lesson_25_presentation.md) | SQL: Подзапросы и CASE WHEN | https://drive.google.com/file/d/1rbCOJqOHcbW03wVsq0SRWpykD2K2kG5Z/view?usp=sharing
+| [Урок 26](lessons/sql/lesson_26_presentation.md) | SQL: Window Functions (оконные функции) | https://drive.google.com/file/d/1Jngii_D-IcOzgzGpbJ8e1f4W-XwGcBPF/view?usp=sharing
 ---
 
 
