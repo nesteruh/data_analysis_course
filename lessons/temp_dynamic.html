@@ -1,0 +1,21 @@
+
+<!DOCTYPE html>
+<html>
+<head><title>Динамический контент</title></head>
+<body>
+    <h1>Список элементов</h1>
+    <button id="load-btn" onclick="loadData()">Загрузить данные</button>
+    <div id="content"></div>
+
+    <script>
+        function loadData() {
+            setTimeout(() => {
+                document.getElementById('content').innerHTML = 
+                    '<p class="item">Элемент 1</p>' +
+                    '<p class="item">Элемент 2</p>' +
+                    '<p class="item">Элемент 3</p>';
+            }, 2000);  // Загрузка через 2 секунды
+        }
+    </script>
+</body>
+</html>
