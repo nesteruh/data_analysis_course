@@ -33,7 +33,10 @@
 | [Урок 24](lessons/sql/lesson_24_presentation.md) | SQL: JOIN - объединение таблиц | https://drive.google.com/file/d/1v9Qg6ZUMpz55CQJxx1VOoHM1cDlNy-89/view?usp=drive_link
 | [Урок 25](lessons/sql/lesson_25_presentation.md) | SQL: Подзапросы и CASE WHEN | https://drive.google.com/file/d/1rbCOJqOHcbW03wVsq0SRWpykD2K2kG5Z/view?usp=sharing
 | [Урок 26](lessons/sql/lesson_26_presentation.md) | SQL: Window Functions (оконные функции) | https://drive.google.com/file/d/1Jngii_D-IcOzgzGpbJ8e1f4W-XwGcBPF/view?usp=sharing
-| [Урок 27](lessons/lesson_27.ipynb) | Naive Bayes Classifier |                   |
+| [Урок 27](lessons/lesson_27.ipynb) | Naive Bayes Classifier | https://drive.google.com/file/d/1ql1CUjD98bflVLO4GR-dTOmdnbwME9Pd/view?usp=sharing 
+| [Урок 28](lessons/lesson_28.ipynb) | Ensemble Learning | https://drive.google.com/file/d/1XRZqdC7RGwjF-xi7cLbLJTvAybrvxFKc/view?usp=sharing 
+| [Урок 29](lessons/lesson_29.ipynb) | Neural Network | https://drive.google.com/file/d/1TkphQcd5AANKAbi6JI407TqZYlQyC7_Q/view?usp=sharing 
+| [Урок 30](lessons/lesson_30.ipynb) | Selenium | https://drive.google.com/file/d/1xLPSDqr_pkWHfaIRwKpTPBeovapA_GdR/view?usp=sharing 
 ---
 
 
