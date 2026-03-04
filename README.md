@@ -37,6 +37,7 @@
 | [Урок 28](lessons/lesson_28.ipynb) | Ensemble Learning | https://drive.google.com/file/d/1XRZqdC7RGwjF-xi7cLbLJTvAybrvxFKc/view?usp=sharing 
 | [Урок 29](lessons/lesson_29.ipynb) | Neural Network | https://drive.google.com/file/d/1TkphQcd5AANKAbi6JI407TqZYlQyC7_Q/view?usp=sharing 
 | [Урок 30](lessons/lesson_30.ipynb) | Selenium | https://drive.google.com/file/d/1xLPSDqr_pkWHfaIRwKpTPBeovapA_GdR/view?usp=sharing 
+| [Урок 31](lessons/sql/lesson_31_presentation.md) | SQL: CTE,INDEX,VIEW,CONSTRAINT | 
 ---
 
 
