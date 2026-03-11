@@ -38,6 +38,7 @@
 | [Урок 29](lessons/lesson_29.ipynb) | Neural Network | https://drive.google.com/file/d/1TkphQcd5AANKAbi6JI407TqZYlQyC7_Q/view?usp=sharing 
 | [Урок 30](lessons/lesson_30.ipynb) | Selenium | https://drive.google.com/file/d/1xLPSDqr_pkWHfaIRwKpTPBeovapA_GdR/view?usp=sharing 
 | [Урок 31](lessons/sql/lesson_31_presentation.md) | SQL: CTE,INDEX,VIEW,CONSTRAINT | https://drive.google.com/file/d/1K6O93wFa8Y2HuCy4ZMYQSTTuVlC9rxkf/view?usp=sharing
+| [Урок 32](lessons/lesson_32.ipynb) | Статистика | https://drive.google.com/file/d/155qQQIE97z8RMBglCtlnXUhmD35thmce/view?usp=sharing
 ---
 
 
