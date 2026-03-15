@@ -39,6 +39,7 @@
 | [Урок 30](lessons/lesson_30.ipynb) | Selenium | https://drive.google.com/file/d/1xLPSDqr_pkWHfaIRwKpTPBeovapA_GdR/view?usp=sharing 
 | [Урок 31](lessons/sql/lesson_31_presentation.md) | SQL: CTE,INDEX,VIEW,CONSTRAINT | https://drive.google.com/file/d/1K6O93wFa8Y2HuCy4ZMYQSTTuVlC9rxkf/view?usp=sharing
 | [Урок 32](lessons/lesson_32.ipynb) | Статистика | https://drive.google.com/file/d/155qQQIE97z8RMBglCtlnXUhmD35thmce/view?usp=sharing
+| [Урок 33](lessons/lesson_33.ipynb) | Полный цикл EDA | https://drive.google.com/file/d/1EmtdRxETeVgUTnN7sbWZZlXGW2Mxl8It/view?usp=sharing
 ---
 
 
