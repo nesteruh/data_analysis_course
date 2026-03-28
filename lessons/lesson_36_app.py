@@ -100,7 +100,7 @@ with col1:
     )
 
 with col2:
-    st.write("**Параметры населения")
+    st.write("Параметры населения")
     ave_bedrooms = st.slider(
         "Среднее спален на дом",
         min_value=0.5,
