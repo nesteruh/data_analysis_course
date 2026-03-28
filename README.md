@@ -41,6 +41,7 @@
 | [Урок 32](lessons/lesson_32.ipynb) | Статистика | https://drive.google.com/file/d/155qQQIE97z8RMBglCtlnXUhmD35thmce/view?usp=sharing
 | [Урок 33](lessons/lesson_33.ipynb) | Полный цикл EDA | https://drive.google.com/file/d/1EmtdRxETeVgUTnN7sbWZZlXGW2Mxl8It/view?usp=sharing
 | [Урок 34](lessons/lesson_34.ipynb) | ML лучшие практики | https://drive.google.com/file/d/1zgRZYMy6XwvMzxMlzb2LSJJ0XgL120R9/view?usp=sharing
+| [Урок 35](lessons/lesson_35_presentation.md) | Streamlit | https://drive.google.com/file/d/1Lwg8ZOQI7J4mvEOOLtJLtZ3WR86KVxBi/view?usp=sharing
 ---
 
 
