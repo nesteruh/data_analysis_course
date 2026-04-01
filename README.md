@@ -43,6 +43,7 @@
 | [Урок 34](lessons/lesson_34.ipynb) | ML лучшие практики | https://drive.google.com/file/d/1zgRZYMy6XwvMzxMlzb2LSJJ0XgL120R9/view?usp=sharing
 | [Урок 35](lessons/lesson_35_presentation.md) | Streamlit | https://drive.google.com/file/d/1Lwg8ZOQI7J4mvEOOLtJLtZ3WR86KVxBi/view?usp=sharing
 | [Урок 36](lessons/lesson_36_presentation.md) | Streamlit model deploy | https://drive.google.com/file/d/1uT8DMXbIvjEQN_RTWVG4rtK7Xq6IdQOb/view?usp=sharing
+| [Урок 37](lessons/lesson_37_presentation.md) | A/B тестирование | https://drive.google.com/file/d/1YhPaq6sYtvMr8MELxbXoaHncqVDlCYI0/view?usp=sharing
 ---
 
 
