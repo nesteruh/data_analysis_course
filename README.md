@@ -44,6 +44,7 @@
 | [Урок 35](lessons/lesson_35_presentation.md) | Streamlit | https://drive.google.com/file/d/1Lwg8ZOQI7J4mvEOOLtJLtZ3WR86KVxBi/view?usp=sharing
 | [Урок 36](lessons/lesson_36_presentation.md) | Streamlit model deploy | https://drive.google.com/file/d/1uT8DMXbIvjEQN_RTWVG4rtK7Xq6IdQOb/view?usp=sharing
 | [Урок 37](lessons/lesson_37_presentation.md) | A/B тестирование | https://drive.google.com/file/d/1YhPaq6sYtvMr8MELxbXoaHncqVDlCYI0/view?usp=sharing
+| [Урок 38](lessons/lesson_38_presentation.md) | Time Series | https://drive.google.com/file/d/1BIjguMmFbpZ9jPiuN08Z35HHve948o1n/view?usp=sharing
 ---
 
 
