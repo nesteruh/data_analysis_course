@@ -46,7 +46,7 @@
 | [Урок 37](lessons/lesson_37_presentation.md) | A/B тестирование | https://drive.google.com/file/d/1YhPaq6sYtvMr8MELxbXoaHncqVDlCYI0/view?usp=sharing
 | [Урок 38](lessons/lesson_38_presentation.md) | Time Series | https://drive.google.com/file/d/1BIjguMmFbpZ9jPiuN08Z35HHve948o1n/view?usp=sharing
 | [Урок 39](lessons/lesson_39_presentation.md) | Data Storytelling | https://drive.google.com/file/d/1EcIsWBlMgU3D2W9w44S8FybNMWEW27Iw/view?usp=sharing
-| [Урок 40](lessons/lesson_40_presentation.md) | Источники данных и автоматизация | |
+| [Урок 40](lessons/lesson_40_presentation.md) | Источники данных и автоматизация | https://drive.google.com/file/d/1zMT3gemjrHuL6TAYP55GY0f0rGxGIyWz/view?usp=sharing |
 ---
 
 
